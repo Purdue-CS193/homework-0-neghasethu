@@ -1,3 +1,8 @@
+# Negha Sethu's First CS193 Homework
+- I love your guys' introduction activities, though they can get a little weird
+- So far, the material seems pretty interesting
+- I love how the slides are always organized
+
 ## Welcome to GitHub Pages everyone.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files. 
